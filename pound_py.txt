@@ -1,0 +1,6 @@
+n=int(input('enter the weight'))
+enter the weight 56
+>>> c=2.2*n
+>>> print('the entered weight in pounds is ',c)
+the entered weight in pounds is  123.20000000000002
+>>> 
