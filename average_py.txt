@@ -1,0 +1,15 @@
+a=int(input('enter the first number'))
+b=int(input('enter the second number'))
+c=int(input('enter the third number'))
+total =a+b+c
+average=total/2
+print('the total of the numbers are ',total)
+print('the average of the numbers are ',average)
+
+output:
+enter the first number 56
+enter the second number67
+enter the third number 78
+the total of the numbers are  201
+the average if the numbers are  100.5
+
