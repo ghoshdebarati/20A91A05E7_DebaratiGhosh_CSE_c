@@ -1,0 +1,11 @@
+def find_len(l):
+    length = len(l)
+    l.sort()
+    print("Second Largest element is:", l[length-2])
+    print("Second Smallest element is:", l[1])
+l=list(range(1,101))
+Largest = find_len(l)
+
+output
+Second Largest element is: 99
+Second Smallest element is: 2
