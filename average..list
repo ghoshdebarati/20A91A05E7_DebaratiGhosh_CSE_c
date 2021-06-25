@@ -1,0 +1,9 @@
+def Average(l):
+    return sum(l) / len(l)
+l=list(range(1,101))
+average=Average(l)
+print("Average of the list =", round(average, 2))
+
+output:
+Average of the list = 50.5
+>>> 
