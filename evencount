@@ -1,0 +1,10 @@
+l=list(range(1,101))
+e, o = 0, 0
+for num in l:
+    if num % 2 == 0:
+        e+= 1
+print("Even numbers in the list: ", e)
+
+output
+Even numbers in the list:  50
+>>> 
